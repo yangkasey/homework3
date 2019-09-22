@@ -4,6 +4,7 @@ body {
 	font-family: Quicksand, sans-serif;
 	background-color: #dddddd;
 	background-image: url("../images/pidgeon-background.jpg");
+	margin-left: 20px;
 }
 
 h1 {
